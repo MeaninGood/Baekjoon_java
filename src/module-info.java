@@ -1,0 +1,2 @@
+module Beakjoon_java {
+}
